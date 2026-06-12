@@ -1,1 +1,5 @@
 __pycache__/
+*.sql
+posts.csv
+main_*.py
+*.db

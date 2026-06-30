@@ -1,7 +1,6 @@
 # holbertonschool-higher_level_programming
 
-Higher level programming projects.
+Projets Holberton School — Higher Level Programming.
 
-## python-object_relational_mapping
-
-Connecting Python to a MySQL database using MySQLdb, then SQLAlchemy (ORM).
+## Projets
+- `javascript-warm_up` : bases de JavaScript (variables, types, boucles, fonctions, objets).
